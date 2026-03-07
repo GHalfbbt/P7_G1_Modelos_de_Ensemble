@@ -238,10 +238,10 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 | Nombre | GitHub | LinkedIn |
 |--------|--------|----------|
-| **[Alfonso Bermúdez Torres]** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]([https://github.com/GHalfbbt]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alfonsobermudeztorres/]]) |
-| **[Bárbara Sánchez Urbano ]** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]([https://github.com/Barbarasanchez11]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://github.com/Barbarasanchez11]) |
-| **[Bunty Nanwani]** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]([https://www.linkedin.com/in/buntynanwani/]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/buntynanwani/]) |
-| **[Aroa Mateo Gómez]** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]([https://github.com/Arowi95]) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aroamateogomez/]) |
+| **[Alfonso Bermúdez Torres]** | [@GHalfbbt](https://github.com/GHalfbbt) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alfonsobermudeztorres/]]) |
+| **[Bárbara Sánchez Urbano ]** | [@Barbarasanchez11](https://github.com/Barbarasanchez11) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://github.com/Barbarasanchez11]) |
+| **[Bunty Nanwani]** | [@buntynanwani](https://github.com/buntynanwani) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/buntynanwani/]) |
+| **[Aroa Mateo Gómez]** | [@Arowi95](https://github.com/Arowi95) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aroamateogomez/]) |
 
 
 
