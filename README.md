@@ -214,7 +214,7 @@ El modelo muestra excelente rendimiento en todas las clases, con mayor dificulta
 - [Documentación de Endpoints](docs/README_ENDPOINTS.md)
 - [Guía de Desarrollo](docs/DEVELOPMENT.md)
 
-## 🤝 Contribución
+## 🤝 Contribuciones
 
 1. Fork el proyecto
 2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
